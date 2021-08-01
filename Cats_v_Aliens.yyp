@@ -1,6 +1,8 @@
 {
   "resources": [
     {"id":{"name":"spr_ufo","path":"sprites/spr_ufo/spr_ufo.yy",},"order":0,},
+    {"id":{"name":"spr_path","path":"sprites/spr_path/spr_path.yy",},"order":2,},
+    {"id":{"name":"draw_path_sprite","path":"scripts/draw_path_sprite/draw_path_sprite.yy",},"order":0,},
     {"id":{"name":"spr_cat","path":"sprites/spr_cat/spr_cat.yy",},"order":1,},
     {"id":{"name":"obj_cat","path":"objects/obj_cat/obj_cat.yy",},"order":1,},
     {"id":{"name":"path_level_01","path":"paths/path_level_01/path_level_01.yy",},"order":0,},
