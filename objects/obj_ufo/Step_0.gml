@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-var mySpeed = 4;
+var mySpeed = 8;
 
 if ( keyboard_check(vk_left)) {
 	x -= mySpeed;
